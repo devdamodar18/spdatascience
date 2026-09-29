@@ -1,1 +1,1 @@
-"""SPDS core package."""
+# SPDS core package\n
