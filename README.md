@@ -1,9 +1,1 @@
-# SPDS
-
-Fixed Streamlit deployment package.
-
-Main file: `app.py`
-
-Required structure: `app.py`, `requirements.txt`, and `core/engine.py`.
-
-No API key or Streamlit secrets are required for this version.
+# SPDS v2\n\nAI Data Intelligence workspace with Auto Analysis, plain-language assistant, visual recommendations, predictive lab and session learning.\n\nMain file: app.py. No API key required.\n
